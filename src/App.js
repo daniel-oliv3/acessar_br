@@ -5,7 +5,6 @@ import './styles/global.scss';
 function App() {
   return (
     <div>
-      Olá, Mundo!
       <Header/>
     </div>
   );
